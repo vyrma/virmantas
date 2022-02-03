@@ -7,7 +7,7 @@
     <style>
 
         body{
-            background-color: #333737;
+            background-color: #1a5e5e;
         }
         div.title{
             position: fixed;
@@ -19,7 +19,7 @@
         }
         h1{
             font-family:sans-serif;
-            color:#9a9fa1
+            color:#205c74
         }
     </style>
 </head>
